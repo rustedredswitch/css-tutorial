@@ -1,0 +1,13 @@
+a{
+  margin-right: 20px;
+  padding: 10px 5px;
+  background-color: rgb(245, 80, 80);
+  text-decoration: none;
+  color: rgb(34, 34, 34);
+  border: solid 1px rgb(34, 34, 34);
+  border-radius: 7px;
+}
+
+#mainmenu{
+  margin: 20px 10px;
+}
