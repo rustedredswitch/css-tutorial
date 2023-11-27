@@ -1,0 +1,46 @@
+.box {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+}
+
+.bg-color {
+  background-color: salmon;
+  background-color: #fefefe;
+  background-color: rgb(2, 2, 2);
+  background-color: rgba(4, 59, 32, 0.9);
+}
+
+.bg-image {
+  border: solid 1px;
+  background-image: url(../../../assets/hero.jpg);
+  background-size: 250px;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.bg-gradient {
+  /* cssgradient.io */
+  background: rgb(1, 91, 38);
+  background: linear-gradient(
+    98deg,
+    rgba(1, 91, 38, 1) 12%,
+    rgba(29, 207, 50, 1) 62%,
+    rgba(25, 100, 6, 1) 96%
+  );
+}
+
+.bg-attach{
+  background-image: url(../../../assets/hero2.jpg);
+  height: 1500px;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.b-radius{
+  border-radius: 50%;
+}
+
+.container {
+  display: flex;
+}
