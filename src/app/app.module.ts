@@ -6,13 +6,15 @@ import { AppComponent } from './app.component';
 import { HomeComponent } from './components/home/home.component';
 import { BoxModelComponent } from './components/box-model/box-model.component';
 import { BackgroundAndBorderComponent } from './components/background-and-border/background-and-border.component';
+import { OverflowComponent } from './components/overflow/overflow.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HomeComponent,
     BoxModelComponent,
-    BackgroundAndBorderComponent
+    BackgroundAndBorderComponent,
+    OverflowComponent
   ],
   imports: [
     BrowserModule,
