@@ -1,17 +1,17 @@
-a{
+a {
   margin-right: 5px;
   padding-bottom: 100px;
-  background-color:blanchedalmond;
+  background-color: blanchedalmond;
   border: solid 1px rgb(150, 150, 150);
 }
 
-ul{
+ul {
   margin-top: 100px;
   padding: 0px;
   display: flex;
 }
 
-li{
+li {
   height: 30px;
   width: 30px;
   margin-right: 10px;
@@ -19,7 +19,7 @@ li{
   list-style-type: none;
 }
 
-.content-box{
+.content-box {
   padding: 20px;
   border: solid 1px rgb(34, 34, 34);
   margin: 20px;
@@ -29,7 +29,7 @@ li{
   box-sizing: content-box; /*This is the default*/
 }
 
-.border-box{
+.border-box {
   padding: 20px;
   border: solid 1px rgb(34, 34, 34);
   margin: 20px;
@@ -39,7 +39,7 @@ li{
   box-sizing: border-box;
 }
 
-.span-i-b{
+.span-i-b {
   height: 200px;
   width: 200px;
   background-color: blanchedalmond;

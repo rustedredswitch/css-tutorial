@@ -1,4 +1,4 @@
-.break{
+.break {
   border: solid 1px;
   width: 300px;
   height: 200px;
@@ -6,7 +6,7 @@
   word-break: break-all;
 }
 
-.keep{
+.keep {
   border: solid 1px;
   width: 300px;
   height: 200px;

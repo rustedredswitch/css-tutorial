@@ -1,27 +1,28 @@
-*{
+* {
   margin: 10px;
 }
 
-h1{
+h1 {
   color: aquamarine;
   background-color: rgb(245, 80, 80);
   border: solid 2px rgb(34, 34, 34);
   padding: 20px;
 }
 
-p,h1{
+p,
+h1 {
   color: rgb(34, 34, 34); /*change the color in cascade for h1*/
 }
 
-.class1{
+.class1 {
   border-bottom: solid 1px rgb(34, 34, 34);
 }
 
-.class2{
+.class2 {
   border-left: solid 1px rgb(34, 34, 34);
   border-right: solid 1px rgb(34, 34, 34);
 }
 
-#unique{
+#unique {
   background-color: lightcoral;
 }

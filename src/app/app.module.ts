@@ -16,11 +16,8 @@ import { OverflowComponent } from './components/overflow/overflow.component';
     BackgroundAndBorderComponent,
     OverflowComponent
   ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule
-  ],
+  imports: [BrowserModule, AppRoutingModule],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
 })
-export class AppModule { }
+export class AppModule {}
